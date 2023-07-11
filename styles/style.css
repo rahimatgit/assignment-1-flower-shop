@@ -16,7 +16,7 @@ body{
 }
 .banner-img{
     width: 635px;
-    height: 95%;
+    height: 100%;
 }
 .banner-text{
     width: 50%;
@@ -40,4 +40,28 @@ body{
     border: none;
     border-radius: 5px;
     color: white;
+}
+/* hot deal section */
+.hot-deal-container{
+    height: 40vh;
+    margin-top: 100px;
+    padding: 100px;
+    background-color: #E554730D;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.hot-deal-text{
+    width: 40%;
+    text-align: center;
+}
+.hot-deal-detail{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin: 10px 0 10px 0;
+}
+.hot-deal-img{
+    margin-right: 100px;
 }
