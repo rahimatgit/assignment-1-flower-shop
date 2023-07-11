@@ -51,6 +51,21 @@ body{
     flex-direction: column;align-items: center;
     justify-content: center;
 }
+.featured-title{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 30px;
+    padding-top: 30px;
+}
+.featured-text{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin: 15px 0 40px 0;
+}
 .featured-flowers{
     display: flex;
     gap: 10px;
@@ -79,6 +94,11 @@ body{
     height: 300px;
     margin-top: 100px;
     margin-left: 45px;
+}
+.pink-flower{
+    text-align: center;
+    margin-top: 10px;
+    text-decoration: underline;
 }
 
 /* hot deal section */
