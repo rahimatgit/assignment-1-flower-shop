@@ -65,3 +65,19 @@ body{
 .hot-deal-img{
     margin-right: 100px;
 }
+.latest-deals-container{
+    width: 80%;
+    height: 40vh;
+    background-image: url('../Flower Asset/Rectangle\ 9.png');
+    margin: auto;
+    margin-bottom: 100px;
+    margin-top: 50px;
+    border: none;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+}
+.latest-deals{
+    width: 20%;
+    margin: auto;
+}
