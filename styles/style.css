@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* font style */
+body{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+/* banner styles */
+.banner{
+    background-color: #E554731A;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+.banner-img{
+    width: 635px;
+    height: 95%;
+}
+.banner-text{
+    width: 50%;
+    margin: auto;
+}
+.banner-title{
+    color: #272727;
+    font-size: 60px;
+    font-weight: 800;
+}
+.banner-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.btn-primary{
+    background-color: #E55473;
+    padding: 20px 43px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
