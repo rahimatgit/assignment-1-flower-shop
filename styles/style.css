@@ -21,6 +21,7 @@ body{
 .banner-text{
     width: 50%;
     margin: auto;
+    padding-left: 100px;
 }
 .banner-title{
     color: #272727;
@@ -50,6 +51,7 @@ body{
     display: flex;
     flex-direction: column;align-items: center;
     justify-content: center;
+    margin-top: 100px;
 }
 .featured-title{
     color: #272727;
@@ -69,6 +71,7 @@ body{
 .featured-flowers{
     display: flex;
     gap: 10px;
+    margin-top: 50px;
 }
 .featured-images-1{
     width: 350px;
@@ -104,7 +107,7 @@ body{
 /* hot deal section */
 .hot-deal-container{
     height: 40vh;
-    margin-top: 100px;
+    margin-top: 200px;
     padding: 100px;
     background-color: #E554730D;
     display: flex;
@@ -201,7 +204,7 @@ body{
     justify-content: center;
     align-items: center;
     background-color: #0597A026;
-    padding: 50px 0;
+    padding: 100px 0;
     margin-bottom: 50px;
 }
 .bouquet-title{
@@ -210,7 +213,7 @@ body{
 }
 .bouquet-text{
     text-align: center;
-    margin: 15px 0;
+    margin: 15px 0 30px 0;
     color: rgba(39, 39, 39, 0.60);
     font-size: 18px;
     font-weight: 400;
